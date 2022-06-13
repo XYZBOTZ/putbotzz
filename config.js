@@ -16,10 +16,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL', ''] // ganti jadi group lu
-global.owner = ['6288279268363'] // Put your number here //owner eval
-global.kontak = ['6288279268363','0'] //Ketika ada yang ngetik #owner
+global.owner = ['6285862754807'] // Put your number here //owner eval
+global.kontak = ['6285862754807','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6288279268363'] // Premium user has unlimited limit
+global.prems = ['6285862754807'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -48,20 +48,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'https://instagram.com/drak_ipul123'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'King Of Bear'
-namakontak2 = 'King Of Bear'
+namakontak1 = 'Nopan'
+namakontak2 = 'Nopan'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By King Of Bear' // ganti aja
-global.author = 'King Of Bear' // ganti aja
+global.packname = 'By Nopan' // ganti aja
+global.author = 'Nopan' // ganti aja
 
 //yyy
-bc = 'King Of Bear' //AlyaaXd Broadcast
-footer = '\n©King Of Bear'
-namabot = 'Yuki Bot'
-namalu = 'King Of Bear'
+bc = 'Nopan' //Nopan-Md Broadcast
+footer = '\n©Nopan'
+namabot = '𝚇𝚈𝚉-𝙼𝙳'
+namalu = 'Nopan'
 
 
 // 
